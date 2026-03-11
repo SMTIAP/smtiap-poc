@@ -5,7 +5,7 @@ import PaymentPOC from './pages/poc/PaymentPOC';
 import DataAnalysisPage from './pages/DataAnalysis';
 import QRCodeGenerator from './pages/poc/qrPOC/QRCodeGenerator';
 import SendReceiveEmails from './pages/poc/EmailNotifications/SendReceiveEmails';
-import Login from './pages/poc/login/loginPage';
+import Login from './pages/poc/login/LoginPage';
 
 
 import './App.css';
